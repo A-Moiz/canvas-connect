@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDMU5xrVzR32N3OE_Z6hA9sjpiuhbkBJZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584288130391</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abdul.Canvas-Connect</string>
+	<key>PROJECT_ID</key>
+	<string>canvas-connect-e68d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>canvas-connect-e68d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584288130391:ios:870cd209d8db4a384f1a12</string>
+</dict>
+</plist>
